@@ -1,0 +1,79 @@
+{
+  "name": "app-management-app",
+  "version": "28.1.4",
+  "description": "Applications management app for DHIS2",
+  "main": "index.html",
+  "scripts": {
+    "lint": "eslint --fix src",
+    "validate": "npm ls --depth 0 || yarn list",
+    "start": "d2-manifest package.json manifest.webapp && webpack-dev-server",
+    "prebuild": "rm -rf build",
+    "build": "webpack",
+    "postbuild": "cp -r  *.png i18n node_modules/babel-polyfill/dist/polyfill.min.js build/ && npm run manifest && cp ./package.json ./build/package.json",
+    "manifest": "d2-manifest package.json build/manifest.webapp",
+    "deploy": "deploy-build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhis2/app-management-app.git"
+  },
+  "keywords": [
+    "DHIS2",
+    "HISP",
+    "apps"
+  ],
+  "author": "Nicolay Ramm <nicolay@dhis2.org> (https://www.dhis2.org)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/dhis2/app-management-app/issues"
+  },
+  "homepage": "https://github.com/dhis2/app-management-app#readme",
+  "devDependencies": {
+    "@dhis2/deploy-build": "^1.0.4",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^0.28.4",
+    "d2": "^28.0.0",
+    "d2-manifest": "^1.0.0",
+    "d2-ui": "^28.0.2",
+    "d2-utilizr": "^0.2.13",
+    "eslint-config-dhis2": "^3.0.7",
+    "exports-loader": "^0.6.4",
+    "loglevel": "^1.4.1",
+    "material-ui": "^0.19.2",
+    "node-sass": "4.9.0",
+    "precommit-hook": "3.0.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-tap-event-plugin": "^2.0.1",
+    "rxjs": "^5.4.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "susy": "^3.0.0",
+    "webpack": "^3.5.1",
+    "webpack-dev-server": "^2.6.1"
+  },
+  "pre-commit": [
+    "lint",
+    "validate"
+  ],
+  "manifest.webapp": {
+    "name": "DHIS 2 Application Management",
+    "icons": {
+      "48": "icon.png"
+    },
+    "description": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
+    "activities": {
+      "dhis": {
+        "href": ".."
+      }
+    }
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^2.30.1"
+  }
+}
