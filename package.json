@@ -1,0 +1,14 @@
+{
+  "name": "app-management-app",
+  "version": "29.0.0",
+  "description": "Applications management app for DHIS2",
+  "main": "index.html",
+  "keywords": [
+    "DHIS2",
+    "HISP",
+    "apps"
+  ],
+  "author": "Nicolay Ramm <nicolay@dhis2.org> (https://www.dhis2.org)",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/dhis2/app-management-app#readme"
+}
