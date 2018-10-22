@@ -8,7 +8,7 @@
   },
   "appType": "APP",
   "name": "DHIS 2 Application Management",
-  "version": "29.0.0",
+  "version": "31.0.0",
   "description": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
   "developer": {
     "name": "Nicolay Ramm",
@@ -18,5 +18,5 @@
   "icons": {
     "48": "icon.png"
   },
-  "manifest_generated_at": "Mon Oct 22 2018 20:09:50 GMT+0000 (UTC)"
+  "manifest_generated_at": "Mon Oct 22 2018 20:13:35 GMT+0000 (UTC)"
 }
