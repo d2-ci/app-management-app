@@ -1,7 +1,7 @@
 {
   "appType": "APP",
-  "short_name": "app-management-app",
-  "name": "DHIS 2 Application Management",
+  "short_name": "app-management",
+  "name": "App Management",
   "description": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
   "version": "31.0.0",
   "launch_path": "index.html",
@@ -19,7 +19,7 @@
     "email": "nicolay@dhis2.org",
     "url": "https://www.dhis2.org"
   },
-  "manifest_generated_at": "Wed Aug 26 2020 10:05:56 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Fri Aug 28 2020 14:33:51 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
