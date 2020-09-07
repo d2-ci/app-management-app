@@ -1,0 +1,6 @@
+{
+  "name": "app-management-app",
+  "description": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
+  "license": "BSD-3-Clause",
+  "version": "31.0.0"
+}
