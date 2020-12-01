@@ -1,0 +1,64 @@
+# 
+# Translators:
+# Viktor Varland <viktor@dhis2.org>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2020-02-21T13:01:54.731Z\n"
+"PO-Revision-Date: 2020-02-28 15:01+0000\n"
+"Last-Translator: Viktor Varland <viktor@dhis2.org>, 2020\n"
+"Language-Team: Swedish (https://www.transifex.com/hisp-uio/teams/100509/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "App installed successfully"
+msgstr "App installerats"
+
+msgid "Failed to install app"
+msgstr "Det gick inte att installera appen"
+
+msgid "App removed successfully"
+msgstr "Appen har tagits bort"
+
+msgid "Installing app from the app hub..."
+msgstr ""
+
+msgid "Failed to install an app from the app hub"
+msgstr ""
+
+msgid "Uploading..."
+msgstr "Laddar upp ..."
+
+msgid "Installing..."
+msgstr "Installerar ..."
+
+msgid "No apps found"
+msgstr "Inga appar hittade"
+
+msgid "No installed apps matched the search term"
+msgstr "Inga installerade appar matchade sökordet"
+
+msgid "Standard Apps"
+msgstr "Standardapps"
+
+msgid "Dashboard Apps"
+msgstr "Dashboard Apps"
+
+msgid "Tracker Dashboard Apps"
+msgstr "Tracker Dashboard Apps"
+
+msgid "Resource Apps"
+msgstr "Resurs apps"
+
+msgid "App Hub"
+msgstr ""
+
+msgid "By"
+msgstr "Av"
+
+msgid "Install"
+msgstr "Installera"
