@@ -1,0 +1,47 @@
+{
+    "name": "app-management-app",
+    "version": "31.0.0",
+    "description": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
+    "scripts": {
+        "start": "d2-app-scripts start",
+        "build": "d2-app-scripts build",
+        "test": "d2-app-scripts test",
+        "lint:js": "d2-style js check",
+        "lint:text": "d2-style text check",
+        "lint:staged": "yarn lint:js --staged && yarn lint:text --staged",
+        "lint": "yarn lint:js && yarn lint:text",
+        "format:js": "d2-style js apply",
+        "format:text": "d2-style text apply",
+        "format:staged": "yarn format:js --staged && yarn format:text --staged",
+        "format": "yarn format:js && yarn format:text"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dhis2/app-management-app.git"
+    },
+    "keywords": [
+        "DHIS2",
+        "HISP",
+        "apps"
+    ],
+    "author": "Nicolay Ramm <nicolay@dhis2.org> (https://www.dhis2.org)",
+    "license": "BSD-3-Clause",
+    "bugs": {
+        "url": "https://github.com/dhis2/app-management-app/issues"
+    },
+    "homepage": "https://github.com/dhis2/app-management-app#readme",
+    "devDependencies": {
+        "@dhis2/cli-app-scripts": "^5.6.0",
+        "@dhis2/cli-style": "^7.3.0",
+        "babel-plugin-minify-replace": "^0.5.0"
+    },
+    "dependencies": {
+        "@dhis2/app-runtime": "^2.7.0",
+        "@dhis2/prop-types": "^2.0.3",
+        "moment": "2.24",
+        "query-string": "^6.14.0",
+        "react-router-dom": "^5.2.0",
+        "semver": "^7.3.4",
+        "use-query-params": "^1.1.9"
+    }
+}
