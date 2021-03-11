@@ -1,6 +1,6 @@
 {
   "type": "app",
-  "name": "dhis-web-app-management",
+  "name": "app-management",
   "title": "App Management",
   "coreApp": true,
   "version": "31.0.0",
