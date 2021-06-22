@@ -4,7 +4,7 @@
   "name": "app-management",
   "title": "App Management",
   "coreApp": true,
-  "version": "31.2.0",
+  "version": "31.0.0",
   "author": {
     "name": "Nicolay Ramm",
     "email": "nicolay@dhis2.org",
