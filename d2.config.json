@@ -5,7 +5,7 @@
   "title": "App Management",
   "coreApp": true,
   "minDHIS2Version": "2.37",
-  "version": "100.3.0",
+  "version": "100.3.1",
   "author": {
     "name": "Nicolay Ramm",
     "email": "nicolay@dhis2.org",
