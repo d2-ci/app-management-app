@@ -16,14 +16,14 @@
     },
     {
       "url": "#/app-hub",
-      "name": "App hub"
+      "name": "App Hub"
     },
     {
       "url": "#/manual-install",
       "name": "Manual install"
     }
   ],
-  "version": "100.5.0",
+  "version": "100.5.1",
   "author": {
     "name": "Nicolay Ramm",
     "email": "nicolay@dhis2.org",
