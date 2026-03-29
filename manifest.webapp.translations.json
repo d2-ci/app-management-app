@@ -1,0 +1,311 @@
+[
+  {
+    "locale": "ar",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "إدارة التطبيقات",
+    "description": ""
+  },
+  {
+    "locale": "ar_IQ",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ckb",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "بةريوةبردني بةرنامةكان",
+    "description": ""
+  },
+  {
+    "locale": "cs",
+    "shortcuts": {
+      "Core apps": "Základní aplikace",
+      "Custom apps": "Vlastní aplikace",
+      "App hub": "",
+      "Manual install": "Ruční instalace"
+    },
+    "title": "Správa aplikací",
+    "description": ""
+  },
+  {
+    "locale": "da",
+    "shortcuts": {}
+  },
+  {
+    "locale": "en",
+    "shortcuts": {
+      "Core apps": "Core apps",
+      "Custom apps": "Custom apps",
+      "App Hub": "App Hub",
+      "Manual install": "Manual install"
+    },
+    "title": "App Management",
+    "description": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store"
+  },
+  {
+    "locale": "en_US",
+    "shortcuts": {}
+  },
+  {
+    "locale": "es",
+    "shortcuts": {
+      "Core apps": "Aplicaciones principales",
+      "Custom apps": "Aplicaciones personalizadas",
+      "App hub": "",
+      "Manual install": "Instalación manual"
+    },
+    "title": "Administración de aplicaciones",
+    "description": ""
+  },
+  {
+    "locale": "es_419",
+    "shortcuts": {}
+  },
+  {
+    "locale": "fr",
+    "shortcuts": {
+      "Core apps": "Applications de base",
+      "Custom apps": "Apps personnalisées",
+      "App hub": "",
+      "Manual install": "Installation manuelle"
+    },
+    "title": "Gestionnaire d'Applications",
+    "description": ""
+  },
+  {
+    "locale": "hi_IN",
+    "shortcuts": {}
+  },
+  {
+    "locale": "id",
+    "shortcuts": {
+      "Core apps": "App inti",
+      "Custom apps": "Aplikasi khusus",
+      "App hub": "",
+      "Manual install": "Pemasangan manual"
+    },
+    "title": "",
+    "description": ""
+  },
+  {
+    "locale": "km",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "ការគ្រប់គ្រងប្រព័ន្ធកម្មវិធី",
+    "description": ""
+  },
+  {
+    "locale": "lo",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "ການຈັດການແອັບ",
+    "description": ""
+  },
+  {
+    "locale": "my",
+    "shortcuts": {}
+  },
+  {
+    "locale": "nb",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "Appadministrasjon",
+    "description": ""
+  },
+  {
+    "locale": "ne",
+    "shortcuts": {}
+  },
+  {
+    "locale": "nl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "prs",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "مدیریت برنامه",
+    "description": ""
+  },
+  {
+    "locale": "ps",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "د اپلیکېشن مدیریت",
+    "description": ""
+  },
+  {
+    "locale": "pt",
+    "shortcuts": {
+      "Core apps": "Aplicações principais",
+      "Custom apps": "Aplicações personalizadas",
+      "App hub": "",
+      "Manual install": "Instalação manual"
+    },
+    "title": "Gestão de aplicações",
+    "description": ""
+  },
+  {
+    "locale": "pt_BR",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ro",
+    "shortcuts": {}
+  },
+  {
+    "locale": "ru",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "Управление приложениями",
+    "description": ""
+  },
+  {
+    "locale": "si",
+    "shortcuts": {}
+  },
+  {
+    "locale": "sv",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "Apphantering",
+    "description": ""
+  },
+  {
+    "locale": "tet",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "Jestaun App",
+    "description": ""
+  },
+  {
+    "locale": "tg",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uk",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "Керування додатками",
+    "description": ""
+  },
+  {
+    "locale": "ur",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "ایپ میجنمنٹ",
+    "description": ""
+  },
+  {
+    "locale": "uz_Cyrl",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_Latn",
+    "shortcuts": {}
+  },
+  {
+    "locale": "uz_UZ_Cyrl",
+    "shortcuts": {
+      "Core apps": "Асасий иловалар",
+      "Custom apps": "Махсус иловалар",
+      "App hub": "",
+      "Manual install": "Қўлда ўрнатиш"
+    },
+    "title": "Иловани Бошқариш",
+    "description": ""
+  },
+  {
+    "locale": "uz_UZ_Latn",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "Ilovani boshqarish",
+    "description": ""
+  },
+  {
+    "locale": "vi",
+    "shortcuts": {
+      "Core apps": "Ứng dụng cốt lõi",
+      "Custom apps": "Ứng dụng tuỳ chỉnh",
+      "App hub": "",
+      "Manual install": "Cài đặt thủ công"
+    },
+    "title": "Quản Trị Ứng Dụng",
+    "description": ""
+  },
+  {
+    "locale": "zh",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "应用管理",
+    "description": ""
+  },
+  {
+    "locale": "zh_CN",
+    "shortcuts": {
+      "Core apps": "",
+      "Custom apps": "",
+      "App hub": "",
+      "Manual install": ""
+    },
+    "title": "应用管理",
+    "description": ""
+  }
+]
