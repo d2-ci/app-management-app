@@ -289,13 +289,13 @@
   {
     "locale": "zh",
     "shortcuts": {
-      "Core apps": "",
-      "Custom apps": "",
-      "App hub": "",
-      "Manual install": ""
+      "Core apps": "核心应用程序",
+      "Custom apps": "自定义应用程序",
+      "App hub": "应用程序中心",
+      "Manual install": "手动安装"
     },
     "title": "应用管理",
-    "description": ""
+    "description": "应用程序管理应用程序可上传 .zip 文件中的网络应用程序，也可直接从 DHIS 2 官方应用程序商店安装应用程序。"
   },
   {
     "locale": "zh_CN",
