@@ -75,11 +75,11 @@
     "shortcuts": {
       "Core apps": "Applications de base",
       "Custom apps": "Apps personnalisées",
-      "App hub": "",
+      "App hub": "App hub",
       "Manual install": "Installation manuelle"
     },
-    "title": "Gestionnaire d'Applications",
-    "description": ""
+    "title": "Gestionnaire d'applications",
+    "description": "L'application Gestionnaire des applications permet de télécharger des applications Web sous forme de fichiers .zip, ainsi que d'installer des applications directement depuis l'App Store officiel de DHIS2."
   },
   {
     "locale": "hi_IN",
