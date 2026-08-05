@@ -27,10 +27,6 @@
     "description": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store"
   },
   {
-    "locale": "en_US",
-    "shortcuts": {}
-  },
-  {
     "locale": "es",
     "shortcuts": {}
   },
